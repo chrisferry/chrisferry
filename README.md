@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!-- my-badges start -->
+<!-- my-badges end -->
 <!--
 **chrisferry/chrisferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
