@@ -7,7 +7,7 @@
 
 ### Hi, I’m Chris Ferry 👋
 
-🛠️ **VP of Platform Engineering** | Cloud Infrastructure | DevOps | SRE  
+🛠️ **Platform Engineering** | Cloud Infrastructure | DevOps | SRE  
 📍 Based in Brooklyn, NY – open to hybrid/on-site leadership roles in the NYC area  
 🇺🇸🇮🇪 Dual US & Irish Citizen  
 
