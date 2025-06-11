@@ -8,7 +8,7 @@
 ### Hi, I’m Chris Ferry 👋
 
 🛠️ **Platform Engineering** | Cloud Infrastructure | DevOps | Security | SRE  
-📍 Based in Brooklyn, NY – open to hybrid/on-site leadership roles in the NYC area  
+📍 Based in Brooklyn, NY  
 🇺🇸🇮🇪 Dual US & Irish Citizen  
 
 ---
