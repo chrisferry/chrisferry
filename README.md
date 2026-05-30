@@ -5,7 +5,7 @@
 ![CISSP](https://img.shields.io/badge/CISSP-Certified-brightgreen)
 <!-- my-badges end -->
 
-### Hi, I’m Chris Ferry 👋
+### Hi, I'm Chris Ferry 👋
 
 🛠️ **Platform Engineering** | Cloud Infrastructure | DevOps | Security | SRE  
 📍 Based in Brooklyn, NY  
@@ -15,28 +15,29 @@
 
 #### 🚀 What I'm Up To
 
-- Leading cloud, security, and platform strategy for legaltech, and healthtech startups  
-- Designing SOC2 & HIPAA-compliant infrastructure using AWS, Terraform, and Kubernetes (EKS)  
-- Driving GitOps automation, cost optimization, and platform resilience at scale  
-- Actively contributing to architecture while mentoring engineers and scaling teams  
+- Head of SRE at Shielded Technologies
+- Architected and launched infrastructure for Midnight mainnet (March 2026), a privacy-first blockchain sidechain of Cardano using ZK-SNARKs — scaled the SRE team to 10 engineers globally at peak
+- Built and operated the backend for Scavenger Mine, Midnight's 21-day cryptographic mining game that distributed 1B+ NIGHT tokens globally
+- Owning infrastructure-level security across the platform — cloud-native security controls, hardening, and threat modeling on AWS and EKS
+- Driving GitOps automation, cost optimization, and platform resilience at scale
 
 ---
 
 #### 🧠 Currently Exploring
 
-- Building a Python FastAPI backend + Expo/Next.js frontend for a private stealth project  
-- Studying for the CKA exam with a local Raspberry Pi-based MicroK8s cluster  
+- Zero-knowledge proof infrastructure and privacy-preserving blockchain systems
+- Building DApps using Compact, Midnight's ZK smart contract language
 
 ---
 
-#### 👋 Let’s Connect
+#### 👋 Let's Connect
 
 - 💬 Ask me about: cloud infra, platform engineering, DevSecOps, startup scaling  
 - 📫 Reach me at: [chrisferry@gmail.com](mailto:chrisferry@gmail.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/chris-ferry) <!-- | [Website](https://chrisferry.dev) *(placeholder if you have one)*  -->
+- 🌐 [LinkedIn](https://linkedin.com/in/chris-ferry)
 
 ---
 
 #### ⚡ Fun Fact
 
-I’ve built platforms that handle billions in transactions, led distributed teams across time zones, and still enjoy getting my hands dirty in Terraform modules. When I’m not deep in infra or code, I’m usually traveling, mountain biking, or reading sci-fi and fantasy somewhere quiet.
+I've built platforms that handle billions in transactions, led distributed teams across time zones, and still enjoy getting my hands dirty in Terraform modules. When I'm not deep in infra or code, I'm usually traveling, mountain biking, or reading sci-fi and fantasy somewhere quiet.
